@@ -1,2 +1,2 @@
 # HackerRank
-codes submitted by me on HackerRank
+codes submitted by me on HackerRank.com
